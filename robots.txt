@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mmm-foundation.github.io/docs-ru/sitemap.xml.gz
