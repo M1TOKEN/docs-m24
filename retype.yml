@@ -1,0 +1,38 @@
+input: .
+output: .retype
+url: https://google.com
+branding:
+  title: 
+  label: 
+  logo: "static/logo2.png"
+  logoDark: 
+  logoAlign: right
+generator:
+  recase: all
+links:
+# - text: RU
+#   link: https://google.com
+# - text: EN
+#   link: https://google.com
+
+- text: Github
+  link: https://github.com/mmm-foundation
+meta:
+  title: "MMM-2024 | экосистема финансовых продуктов"
+
+footer:
+  copyright: "APOCALYPSE NOW"
+  links:
+    - text: ru
+      link: https://google.com
+    - text: en
+      link: https://google.com
+    
+edit:
+  repo: "https://github.com/mmm-foundation/docs-ru/edit"
+  base: /master
+  branch: master
+  label: редактировать
+
+server:
+  host: 127.0.0.1:5006
