@@ -2,8 +2,6 @@ input: .
 output: .retype
 url: mmm-foundation.github.io/docs-ru/
 branding:
-  title: 
-  label: 
   logo: "static/logo2.png"
   logoDark: 
   logoAlign: right
