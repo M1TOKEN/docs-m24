@@ -28,7 +28,6 @@ footer:
     
 edit:
   repo: "https://github.com/mmm-foundation/docs-ru/edit"
-  base: /master
   branch: master
   label: редактировать
 
